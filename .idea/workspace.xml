@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01197b19-519d-49d2-9380-3f8fb28fb65f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Light.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Light.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -10,7 +11,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
@@ -45,7 +47,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647855455413</updated>
-      <workItem from="1647855456839" duration="6146000" />
+      <workItem from="1647855456839" duration="6746000" />
+      <workItem from="1648013504454" duration="1003000" />
     </task>
     <servers />
   </component>
@@ -53,9 +56,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="656" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1647855457980">
+    <state x="656" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1648013514549">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="656" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1647855457980" />
+    <state x="656" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1648013514549" />
   </component>
 </project>
