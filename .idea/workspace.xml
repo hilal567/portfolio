@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01197b19-519d-49d2-9380-3f8fb28fb65f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/wisely_wallet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/wiselywallet.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +37,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fatma Hilal\Desktop\Fatma\portfolio\Gaspar\Light\assets\images\protfolio" />
+      <recent name="C:\Users\Fatma Hilal\Desktop\Fatma\portfolio\Gaspar\Light\assets\images\profile" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fatma Hilal\Desktop\Fatma\portfolio\Gaspar\Light\assets\images\protfolio" />
       <recent name="C:\Users\Fatma Hilal\Desktop\Fatma\portfolio\Gaspar\Light\assets\images\profile" />
     </key>
   </component>
@@ -56,7 +58,7 @@
       <updated>1647855455413</updated>
       <workItem from="1647855456839" duration="6746000" />
       <workItem from="1648013504454" duration="5919000" />
-      <workItem from="1649050752427" duration="994000" />
+      <workItem from="1649050752427" duration="1124000" />
     </task>
     <servers />
   </component>
