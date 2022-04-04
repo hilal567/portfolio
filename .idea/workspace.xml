@@ -2,6 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01197b19-519d-49d2-9380-3f8fb28fb65f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/Ambassador.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/Ambassador_ccexpress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/pronto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/pronto_ccexpress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/request2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/request3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/requests_create.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/requests_help.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/sklogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/yurban.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/yurban1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/yurban2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/yurban3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/yurban4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/yurban5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/yurban6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/protfolio/yurban_base.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -20,13 +37,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="26gqDJVIc2WE15rhGMzmIVEzH9N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/protfolio" />
@@ -47,6 +67,16 @@
       <recent name="C:\Users\Fatma Hilal\Desktop\Fatma\portfolio\Gaspar\Light\assets\images\profile" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Light/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,12 +89,15 @@
       <updated>1647855455413</updated>
       <workItem from="1647855456839" duration="6746000" />
       <workItem from="1648013504454" duration="5919000" />
-      <workItem from="1649050752427" duration="1857000" />
+      <workItem from="1649050752427" duration="7871000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1648028487209">
